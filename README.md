@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Vad1ks
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning Python
+- 👀 I’m a QA engineer
